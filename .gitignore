@@ -164,3 +164,5 @@ cython_debug/
 faces_split/test
 faces_split/train
 faces_split/valid
+
+**.pth
